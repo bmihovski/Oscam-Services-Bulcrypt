@@ -21,6 +21,11 @@ caid = 5581
 provid = 000000
 srvid=15,2E,CB,CD,3ED
 #
+[bulsatcom.Hobytvfilm+hd]
+caid = 5581
+provid = 000000
+srvid=CB,CD
+#
 [bulsatcom.Serbia]
 caid = 5581,4AEE
 provid = 000000
