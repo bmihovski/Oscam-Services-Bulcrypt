@@ -2,7 +2,7 @@
 [bulsatcom.Economic]
 caid = 5581,4AEE
 provid = 000000
-srvid = 6,C,10,11,20,24,27,29,76,78,7C,8B,A4,A6,A7,128,130,130,137,1F1,3F4,3EB,3EF
+srvid = 6,C,10,11,20,24,27,29,76,78,7C,8B,A4,A6,A7,128,130,130,137,1F1,3F4,3EB,3EF,2F,31
 #
 [bulsatcom.Standard]
 caid = 5581,4AEE
@@ -25,9 +25,9 @@ provid = 000000
 srvid = 00CB,00CD
 #
 [bulsatcom.Cinemax]
-caid = 5581
+caid = 5581,4AEE
 provid = 000000
-srvid=002A
+srvid=2A,1F3
 #
 [polaris]
 caid = 4AEE
